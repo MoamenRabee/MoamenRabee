@@ -63,7 +63,6 @@ I'm a passionate Flutter developer dedicated to creating beautiful, efficient, a
 ### 🔗 Backend & APIs
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🗄️ Databases
@@ -90,21 +89,6 @@ I'm a passionate Flutter developer dedicated to creating beautiful, efficient, a
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moamenrabee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moamenrabee&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moamenrabee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
----
 
 ## 🎯 What I Do
 
@@ -134,24 +118,6 @@ I'm a passionate Flutter developer dedicated to creating beautiful, efficient, a
 
 ---
 
-## 🌟 Featured Projects
-
-### 📱 E-Commerce Mobile App
-- **Technologies**: Flutter, Firebase, GetX, Stripe
-- **Features**: User authentication, product catalog, shopping cart, payment integration
-- **Highlights**: Clean UI, smooth animations, offline support
-
-### 🎵 Music Streaming App
-- **Technologies**: Flutter, REST API, BLoC, Hive
-- **Features**: Music player, playlists, offline downloads, social sharing
-- **Highlights**: Custom audio player, beautiful visualizations
-
-### 💬 Chat Application
-- **Technologies**: Flutter, Firebase, WebRTC, Push Notifications
-- **Features**: Real-time messaging, voice/video calls, group chats
-- **Highlights**: End-to-end encryption, media sharing
-
----
 
 ## 🎓 Learning & Growth
 
@@ -174,13 +140,6 @@ const upcomingGoals = [
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moamenrabee&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
----
 
 ## 🏆 Achievements & Certifications
 
